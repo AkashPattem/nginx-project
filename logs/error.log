@@ -1,0 +1,68 @@
+2023/12/01 19:50:06 [notice] 11420#11392: signal process started
+2023/12/01 19:50:29 [notice] 20264#16044: signal process started
+2023/12/01 19:50:29 [error] 20264#16044: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/12/01 19:50:47 [notice] 22680#18748: signal process started
+2023/12/01 19:50:47 [error] 22680#18748: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/12/01 19:51:53 [notice] 23116#11396: signal process started
+2023/12/01 19:51:53 [error] 23116#11396: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/12/01 19:56:44 [notice] 13604#14160: signal process started
+2023/12/01 19:56:44 [error] 13604#14160: OpenEvent("Global\ngx_quit_5356") failed (5: Access is denied)
+2023/12/01 19:57:13 [notice] 3188#10784: signal process started
+2023/12/01 19:57:24 [notice] 17212#9972: signal process started
+2023/12/01 19:57:24 [error] 17212#9972: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/12/01 19:57:39 [notice] 18416#12476: signal process started
+2023/12/01 19:57:39 [error] 18416#12476: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/12/01 19:58:25 [notice] 21172#23420: signal process started
+2023/12/01 20:11:11 [emerg] 17912#12004: unexpected "}" in C:\nginx/conf/nginx.conf:5
+2023/12/01 20:11:57 [emerg] 7388#9092: unexpected "}" in C:\nginx/conf/nginx.conf:5
+2023/12/01 20:12:21 [emerg] 1852#13272: no "events" section in configuration
+2023/12/01 20:12:45 [error] 11492#16136: *2 directory index of "D:\Work\site/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2023/12/01 20:12:46 [error] 11492#16136: *2 CreateFile() "D:\Work\site/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/12/01 20:15:45 [notice] 18032#16916: signal process started
+2023/12/01 20:16:46 [notice] 23280#16808: signal process started
+2023/12/01 20:17:00 [error] 18356#13144: *4 CreateFile() "D:\Work\site/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/12/01 20:17:09 [error] 18356#13144: *4 CreateFile() "D:\Work\site/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/12/01 20:20:56 [error] 23056#8228: *4 CreateFile() "D:\Work\site/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/12/01 20:23:21 [error] 23056#8228: *4 CreateFile() "D:\Work\site/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/12/01 20:24:14 [notice] 20936#19556: signal process started
+2023/12/01 20:26:21 [error] 22036#9432: *4 CreateFile() "D:\Work\site/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/12/01 20:28:19 [error] 22036#9432: *7 CreateFile() "D:\Work\site/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/12/01 20:28:57 [notice] 16348#18496: signal process started
+2023/12/01 22:37:41 [emerg] 12624#12964: directive "include" is not terminated by ";" in C:\nginx/conf/nginx.conf:3
+2023/12/01 22:47:12 [error] 13764#27644: *7 CreateFile() "D:\Work\site/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/fruits/"
+2023/12/01 22:49:27 [error] 13764#27644: *10 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 22:49:35 [error] 13764#27644: *10 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 22:49:54 [notice] 18416#25656: signal process started
+2023/12/01 22:49:57 [error] 13764#27644: *10 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 22:49:58 [error] 13764#27644: *10 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 22:50:02 [notice] 7028#17640: signal process started
+2023/12/01 22:50:02 [error] 7028#17640: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/12/01 22:50:06 [error] 13764#27644: *10 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 22:50:14 [error] 13764#27644: *10 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 22:50:16 [error] 13764#27644: *10 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 22:50:43 [error] 13764#27644: *10 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 22:50:56 [error] 13764#27644: *10 CreateFile() "D:\Work\site/carbs" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /carbs HTTP/1.1", host: "localhost:8080"
+2023/12/01 22:51:55 [error] 13764#27644: *10 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 22:52:01 [error] 13764#27644: *10 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 22:52:02 [error] 13764#27644: *10 CreateFile() "D:\Work\site/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/carbs/"
+2023/12/01 22:52:20 [emerg] 22388#24320: unexpected "}" in C:\nginx/conf/nginx.conf:14
+2023/12/01 22:52:33 [notice] 25472#25704: signal process started
+2023/12/01 22:52:50 [notice] 26156#18932: signal process started
+2023/12/01 22:52:50 [error] 26156#18932: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/12/01 22:53:31 [notice] 26752#2460: signal process started
+2023/12/01 22:53:34 [error] 13764#27644: *15 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 22:53:37 [error] 13764#27644: *15 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 22:53:50 [error] 13764#27644: *15 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 22:54:14 [error] 13764#27644: *15 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 22:54:55 [error] 13764#27644: *15 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 22:55:24 [notice] 11692#14176: signal process started
+2023/12/01 22:55:33 [error] 13764#27644: *15 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 23:00:48 [notice] 11988#16320: signal process started
+2023/12/01 23:00:56 [error] 13764#27644: *19 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 23:01:03 [error] 13764#27644: *19 directory index of "D:\Work\site/vegetables/" is forbidden, client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 23:02:57 [notice] 4256#7124: signal process started
+2023/12/01 23:03:04 [error] 13764#27644: *22 directory index of "D:\Work\site/vegetables/" is forbidden, client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 23:05:29 [error] 2160#25708: *2 "D:\Work\site/carbs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /carbs/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 23:08:52 [error] 24516#23684: *1 "D:\Work\site/count2/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count2/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 23:10:10 [error] 14180#13840: *1 "D:\Work\site/count2/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count2/ HTTP/1.1", host: "localhost:8080"
+2023/12/01 23:26:29 [emerg] 11384#25788: directive "rewrite" is not terminated by ";" in C:\nginx/conf/nginx.conf:14
